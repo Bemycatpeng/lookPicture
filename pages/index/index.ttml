@@ -1,3 +1,14 @@
-<view class="container">
-  欢迎来到抖音小程序开发
+<!-- 创作者表单 -->
+<view class="input-block">
+  <input class="ttui-input" value="" cursor="{{-1}}" selection-start="{{-1}}" selection-end="{{-1}}"
+    disabled="{{false}}" auto-focus focus placeholder="请输入创作者口令" />
+</view>
+
+<view class="">
+  推荐传作者
+</view>
+
+<view class="page-section page-section-space button-block">
+  <button type="primary" formType="submit">提交</button>
+  <button formType="reset">重设</button>
 </view>

@@ -1,0 +1,9 @@
+page {
+  font-size: 16px;
+  font-family: 'PingFangSC-Regular';
+  font-weight: normal;
+  letter-spacing: 0;
+  background-color: #F8F8F8;
+  min-height: 100%;
+  height: auto;
+}
